@@ -1,3 +1,6 @@
+<h1 align="center">Hi 👋, I'm Hafizh</h1>
+
+![hafizhryadi](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=F5F5F2&center=true&vCenter=true&width=435&lines=Trying+to+be+a+Software+Engineering)
 <p align=center>
   <a href="https://facebook.com/m.hafizh.507">
     <img height="28" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" />
