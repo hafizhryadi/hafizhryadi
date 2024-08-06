@@ -14,7 +14,7 @@
   <a href="https://user-badge.committers.top/indonesia/tfkhdyt"><img src="https://user-badge.committers.top/indonesia/tfkhdyt.svg" alt="committers.top badge"></a>
 </p> -->
 
-<h3 align=center>Full Stack Developer | Informatics Management Student | Beginner</h3>
+<!-- <h3 align=center>Full Stack Developer | Informatics Management Student | Beginner</h3> -->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
