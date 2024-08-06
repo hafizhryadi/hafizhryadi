@@ -25,6 +25,7 @@
 - 👶🏻 Born in `Palembang, November 12th 2005`
 - 🧍🏻‍♂️ `18` years old
 - 💻 `Informatics Management` Student at `Politeknik Negeri Sriwijaya`
+- 🌱 I’m currently learning `Frameworks`, `courses`, `etc`
 - 🌟 Currently, `Laravel`, and `Javascript` are my favorite tech.
 - 🌏 Languages
   - 🇮🇩 Indonesian
